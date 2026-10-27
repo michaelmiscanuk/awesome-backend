@@ -208,6 +208,7 @@ What are vector databases and when do you need them? | Что такое век�
 * [Change Data Capture (CDC): What it is and how it works](https://www.confluent.io/learn/change-data-capture/)
 * [What is a Vector Database?](https://www.pinecone.io/learn/vector-database/)
 * [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
+* [SQL Cheat Sheet](https://www.cheatgrid.com/databases/0293-sql-cheat-sheet) - joins, window functions, CTEs, indexes, transactions and constraints in reference tables
 
 
 ## Security
